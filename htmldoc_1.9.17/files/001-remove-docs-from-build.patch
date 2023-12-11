@@ -1,0 +1,15 @@
+diff --git a/Makefile.in b/Makefile.in
+index 159caadc..245201c6 100644
+--- a/Makefile.in
++++ b/Makefile.in
+@@ -19,8 +19,8 @@ include Makedefs
+ # Subdirectories...
+ #
+ 
+-DIRS	=	htmldoc doc
+-INSTALLDIRS =	fonts data desktop doc htmldoc
++DIRS	=	htmldoc
++INSTALLDIRS =	fonts data desktop htmldoc
+ 
+ 
+ #
