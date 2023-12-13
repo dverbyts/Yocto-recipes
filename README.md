@@ -1,5 +1,5 @@
 # Yocto-recipes
-The Yocto recipes posted here didn't work or didn't exist and I had to update or create them myself.
+I couldn't find a working version of the Yocto recipes listed here, or the recipes didn't exist at all. So I fixed or created them, then uploaded them here for public use.
 
 Added recipes for
 htmldoc v.1.9.17
